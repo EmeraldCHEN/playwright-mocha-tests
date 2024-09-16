@@ -1,0 +1,16 @@
+{
+  "name": "playwright-mocha-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EmeraldCHEN/playwright-mocha-tests.git",
+  "author": "EC",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "playwright": "^1.47.1"
+  },
+  "scripts": {
+    "test": "mocha test"
+  }
+}
